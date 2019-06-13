@@ -1,6 +1,10 @@
 class Person
   
+  atrr
+  
   
   
   
 end
+
+
